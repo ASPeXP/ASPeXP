@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ASPeXP
-- 👀 I’m interested in Blockchain, Web scraping, ReactJS, VueJS, API creation, Unplugged programming and teach programming for kids.
-- 🌱 I’m currently learning Facebook API, Blockchain
+- 👀 I’m interested in Blockchain, Web scraping, ReactJS, VueJS, API creation, Unplugged, and teaching programming for kids.
+- 🌱 I’m currently learning Langchain, Data Analysis
 - 📫 How to reach me ==> @AspExp on Twitter
 
 <!---
