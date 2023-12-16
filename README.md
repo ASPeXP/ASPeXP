@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ASPeXP
-- 👀 I’m interested in Blockchain, Web scraping, ReactJS, VueJS, API creation, Unplugged, and GO.
-- 🌱 I’m currently learning Langchain, Data Analysis with Python
+- 👀 I’m interested in Blockchain, Web scraping, NextJS, API creation and GO.
+- 🌱 I’m currently learning Langchain & Data Analysis with Python, API with GO also Bun with ElysiaJS
 - 📫 How to reach me ==> @AspExp on Twitter
 
 <!---
