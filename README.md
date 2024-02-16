@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ASPeXP
-- 👀 I’m interested in Blockchain, Web scraping, NextJS, API creation and GO.
+- 👀 I’m interested in Blockchain, Web scraping, NextJS, Web API writing.
 - 🌱 I’m currently learning Langchain & Data Analysis with Python, API with GO also Bun with ElysiaJS
 - 📫 How to reach me ==> at AspExp on Twitter
 
